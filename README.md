@@ -5,7 +5,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-This project is a simple bote taking app.
+This project is a simple note taking app.
 	
 ## Technologies
 Project was created with:
